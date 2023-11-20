@@ -1,0 +1,14 @@
+Script started on 2023-11-16 22:46:44+02:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="137" LINES="46"]
+[?2004h]0;cezar@Cezar-MSI: /mnt/c/Users/cezar/projects/openfullstack/part12-containers-applications/script-answers[01;32mcezar@Cezar-MSI[00m:[01;34m/mnt/c/Users/cezar/projects/openfullstack/part12-containers-applications/script-answers[00m$ sudo docker container run ubuntu [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K-it ub untu bach[K[Ksh
+[?2004l[sudo] password for cezar: 
+Sorry, try again.
+[sudo] password for cezar: 
+[?2004h]0;root@afe6b112a09a: /root@afe6b112a09a:/# sudo    mk  dir /usr/src/app
+[?2004l[?2004h]0;root@afe6b112a09a: /root@afe6b112a09a:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@afe6b112a09a: /root@afe6b112a09a:/# [Kexit
+[?2004lexit
+[?2004h]0;cezar@Cezar-MSI: /mnt/c/Users/cezar/projects/openfullstack/part12-containers-applications/script-answers[01;32mcezar@Cezar-MSI[00m:[01;34m/mnt/c/Users/cezar/projects/openfullstack/part12-containers-applications/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2023-11-16 22:48:25+02:00 [COMMAND_EXIT_CODE="0"]
